@@ -1,4 +1,4 @@
-# Random Coffee Proxy
+# Web Tech Proxies
 
 If you don't already have the Netlify CLI installed, you need to so so by running this command:
 
