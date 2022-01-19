@@ -1,5 +1,5 @@
 {
-  "name": "random-coffee-proxy",
+  "name": "web-tech-proxy",
   "version": "1.0.0",
   "description": "",
   "main": "app.js",
@@ -8,16 +8,16 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/tyler-paulson/random-coffee-proxy.git"
+    "url": "git+https://github.com/tyler-paulson/web-tech-proxy.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/tyler-paulson/random-coffee-proxy/issues"
+    "url": "https://github.com/tyler-paulson/web-tech-proxy/issues"
   },
-  "homepage": "https://github.com/tyler-paulson/random-coffee-proxy#readme",
+  "homepage": "https://github.com/tyler-paulson/web-tech-proxy#readme",
   "dependencies": {
-    "axios": "^0.22.0"
+    "axios": "^0.25.0"
   }
 }
