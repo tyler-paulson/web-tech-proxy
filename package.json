@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/tyler-paulson/web-tech-proxy#readme",
   "dependencies": {
-    "axios": "^0.25.0"
+    "axios": "^0.25.0",
+    "doomsday-clock": "^2.0.0"
   }
 }
